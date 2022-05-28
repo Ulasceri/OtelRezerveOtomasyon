@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OtelRezerve", "OtelRezerve.vdproj", "{E5DCC31D-61D4-4BF8-BEA3-927A8649A4B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DCC31D-61D4-4BF8-BEA3-927A8649A4B7}.Debug|Default.ActiveCfg = Debug
+		{E5DCC31D-61D4-4BF8-BEA3-927A8649A4B7}.Debug|Default.Build.0 = Debug
+		{E5DCC31D-61D4-4BF8-BEA3-927A8649A4B7}.Release|Default.ActiveCfg = Release
+		{E5DCC31D-61D4-4BF8-BEA3-927A8649A4B7}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D330EA68-FF37-46CD-90D1-3D2F6EEB66F6}
+	EndGlobalSection
+EndGlobal
